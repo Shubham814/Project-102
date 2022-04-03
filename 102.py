@@ -1,5 +1,3 @@
-# In this project I am going to send notification to user after every hour to drink water
-
 import time
 from plyer import notification
 
